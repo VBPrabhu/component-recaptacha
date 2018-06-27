@@ -3,6 +3,9 @@ Spring Boot application with less configuration
 
 > In this tutorial you will know clear config on captacha server configuration
 
+### Sample Demo Screen
+
+<img width="1440" alt="screen shot 2018-06-28 at 00 04 03" src="https://user-images.githubusercontent.com/26504978/42002758-ad691804-7a68-11e8-94fe-81c20c9441df.png">
 
 ### Project Structure
 
