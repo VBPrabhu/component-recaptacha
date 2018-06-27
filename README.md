@@ -61,11 +61,11 @@ spring.mvc.view.suffix=.jsp
 server.port=8080
 server.context-path=/check/recaptacha
 
-google.recaptcha.secret=6LfUFGEUAAAAAGVs22WCmH0jGoY__Dll4j5DErym
+google.recaptcha.secret=6LfUFGEUAAAAAGVs22WCmH0jGoY__Dll4j5DErym (This secret key is sample )
 google.recaptcha.url=https://www.google.com/recaptcha/api/siteverify
 
-proxy.host=10.246.1.220
-proxy.port=8080
+proxy.host=your proxy host
+proxy.port=your proxy port
 remote.ip=
 ```
 
